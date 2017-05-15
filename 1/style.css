@@ -1,0 +1,41 @@
+.background{
+	background-color: yellow;
+	
+}
+
+p{
+	text-indent: 30px;
+}
+
+.bold{
+	font-weight: bold;
+}
+
+.italik{
+	font-style: italic;
+}
+
+div{
+	margin: 50px auto;
+	width: 600px;
+	font-family: Arial, sans-serif;
+	line-height: 150%;
+}
+
+.line-height{
+	line-height: 30px;
+}
+
+.red{
+   color: red;
+}
+
+.down-line{
+	text-decoration: underline;
+
+}
+
+.rk{
+	text-transform: uppercase;
+	font-family: serif;
+}

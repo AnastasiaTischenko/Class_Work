@@ -1,0 +1,33 @@
+h1{
+    margin: 20px auto;
+	width: 730px;
+}
+
+div{
+	margin: 20px auto;
+	width: 730px;
+	line-height: 150%;
+	font-family: Arial, sans-serif;
+}
+
+.italik{
+	font-style: italic;
+}
+
+.red{
+	color: red;
+}
+
+.bold{
+	font-weight: bold;
+}
+
+.yellow{
+	background-color: yellow;
+	background-size:  40px;
+}
+
+.blue-line{
+	color: blue;
+	text-decoration: underline;
+}
