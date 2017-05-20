@@ -1,0 +1,19 @@
+div{
+	 bold;
+	font-family: Arial, sans-serif;
+	height: 44px;
+	width: 110px;
+	display: inline-block;
+	line-height: 44px;
+	text-align: center;
+	font-weight: bold;
+}
+
+.price{
+	background: #e5e5e5;
+}
+
+.buy{
+	color: white;
+	background: #000000;
+}
